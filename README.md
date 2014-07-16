@@ -3,11 +3,11 @@ convert-resources-ios
 
 Auto create resources for ios devices
 
-#You need to install PIL
+You need to install PIL
 
-#Copy convert.py to your folder.
+Copy convert.py to your folder.
 
-#Run    python convert.py   and choose your device (iPhone or iPad)
+Run    python convert.py   and choose your device (iPhone or iPad)
 
 All of files will create inside Resized folder
 
