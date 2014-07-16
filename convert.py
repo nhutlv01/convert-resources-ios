@@ -5,12 +5,12 @@ import os
 directoryPath = r'Resized'
 deviceType = '' #iphone 1 --- ipad 2
 
-iphone4_retina_suffix = '@2x~iphone'
-iphone5_retina_suffix = '-568h@2x~iphone'
+iphone4_retina_suffix = '~iphone@2x'
+iphone5_retina_suffix = '~iphone-568h@2x'
 iphone_non_retina_suffix = '~iphone'
 
 ipad_non_retina_suffix = '~ipad'
-ipad_retina_suffix = '@2x~ipad'
+ipad_retina_suffix = '~ipad@2x'
 
 
 
